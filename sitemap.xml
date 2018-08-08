@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://uxgain.com/case/a-little-because-by-teshima-aoi/</loc>
-    <lastmod>2017-12-21T23:30:36+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://uxgain.com/about/about-story-test/</loc>
     <lastmod>2017-12-21T03:21:00+08:00</lastmod>
   </url>
@@ -23,33 +18,8 @@
   </url>
   
   <url>
-    <loc>http://uxgain.com/case/article-with-images-preview/</loc>
-    <lastmod>2017-12-20T12:36:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/case/syntax-highlighting-preview-2/</loc>
-    <lastmod>2017-12-20T12:33:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/case/syntax-highlighting-preview/</loc>
-    <lastmod>2017-12-20T12:33:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/case/hugo-quick-start/</loc>
-    <lastmod>2016-12-20T20:08:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/case/hello-hugo/</loc>
-    <lastmod>2014-09-01T12:19:03+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://uxgain.com/</loc>
-    <lastmod>2017-12-21T23:30:36+08:00</lastmod>
+    <lastmod>2017-12-21T03:21:00+08:00</lastmod>
   </url>
   
   <url>
@@ -65,14 +35,8 @@
   </url>
   
   <url>
-    <loc>http://uxgain.com/tags/blog/</loc>
-    <lastmod>2014-09-01T12:19:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://uxgain.com/case/</loc>
-    <lastmod>2017-12-21T23:30:36+08:00</lastmod>
+    <lastmod>2017-12-21T03:21:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,50 +46,7 @@
   </url>
   
   <url>
-    <loc>http://uxgain.com/tags/code/</loc>
-    <lastmod>2017-12-20T12:33:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/example/</loc>
-    <lastmod>2017-12-21T23:30:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/highlight.js/</loc>
-    <lastmod>2017-12-20T12:33:21+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/hugo/</loc>
-    <lastmod>2016-12-20T20:08:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/images/</loc>
-    <lastmod>2017-12-20T12:36:50+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/song/</loc>
-    <lastmod>2017-12-21T23:30:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://uxgain.com/tags/</loc>
-    <lastmod>2014-09-01T12:19:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uxgain.com/tags/tutorial/</loc>
-    <lastmod>2016-12-20T20:08:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
